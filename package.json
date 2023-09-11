@@ -1,0 +1,17 @@
+{
+  "name": "bunapi",
+  "module": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run index.js"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "figlet": "^1.6.0"
+  }
+}
